@@ -1,0 +1,93 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-sk-countdown@latest",
+        "scope": null,
+        "escapedName": "react-native-sk-countdown",
+        "name": "react-native-sk-countdown",
+        "rawSpec": "latest",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/johnny/work/rcshop-onreact"
+    ]
+  ],
+  "_cnpm_publish_time": 1457935005222,
+  "_from": "react-native-sk-countdown@latest",
+  "_id": "react-native-sk-countdown@1.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-sk-countdown",
+  "_nodeVersion": "4.1.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-sk-countdown-1.0.1.tgz_1457935004646_0.42933653201907873"
+  },
+  "_npmUser": {
+    "name": "shigebeyond",
+    "email": "772910474@qq.com"
+  },
+  "_npmVersion": "2.14.4",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-sk-countdown@latest",
+    "scope": null,
+    "escapedName": "react-native-sk-countdown",
+    "name": "react-native-sk-countdown",
+    "rawSpec": "latest",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-sk-countdown/download/react-native-sk-countdown-1.0.1.tgz",
+  "_shasum": "e467bac16949060faa3a7c0db56d460ff8420451",
+  "_shrinkwrap": null,
+  "_spec": "react-native-sk-countdown@latest",
+  "_where": "/home/johnny/work/rcshop-onreact",
+  "author": {
+    "name": "shigebeyond"
+  },
+  "bugs": {
+    "url": "https://github.com/shigebeyond/react-native-sk-countdown/issues"
+  },
+  "dependencies": {},
+  "description": "A simple countdown component for React Native, pure js",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "e467bac16949060faa3a7c0db56d460ff8420451",
+    "size": 41741,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/react-native-sk-countdown/download/react-native-sk-countdown-1.0.1.tgz"
+  },
+  "gitHead": "066ac9ce7910aa18107558cfce04852649639348",
+  "homepage": "https://github.com/shigebeyond/react-native-sk-countdown#readme",
+  "keywords": [
+    "react-native",
+    "countdown"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "shigebeyond",
+      "email": "772910474@qq.com"
+    }
+  ],
+  "name": "react-native-sk-countdown",
+  "optionalDependencies": {},
+  "publish_time": 1457935005222,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shigebeyond/react-native-sk-countdown.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
